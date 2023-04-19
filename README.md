@@ -7,7 +7,7 @@ CCuenta es una aplicación sencilla para gestionar cuentas bancarias. La aplicac
 ## Requisitos
 Antes de utilizar la aplicación, asegúrate de tener instalado lo siguiente:
 
-Java 8 o superior
+Java 11 o superior
 Un IDE de Java, como Eclipse o IntelliJ IDEA
 ## Uso
 Clona este repositorio en tu equipo.
