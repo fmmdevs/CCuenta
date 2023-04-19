@@ -24,4 +24,21 @@ cuenta.retirar(200);
 Si encuentras un error o quieres mejorar la aplicación, siéntete libre de hacer una contribución. Simplemente haz un fork de este repositorio, realiza tus cambios y crea un pull request.
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Por favor revisa el archivo LICENSE para más detalles.
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+CCuenta es un programa libre: puedes redistribuirlo y/o modificarlo
+bajo los términos de la Licencia Pública General de GNU publicada por
+la Free Software Foundation, ya sea la versión 3 de la Licencia, o
+(cualquier versión posterior que la Fundación para el Software Libre
+( Free Software Foundation) publique.
+
+Este programa se distribuye con la esperanza de que sea útil, pero
+SIN GARANTÍA ALGUNA; ni siquiera la garantía implícita de
+COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulta
+la Licencia Pública General de GNU para obtener más detalles.
+
+Deberías haber recibido una copia de la Licencia Pública General de GNU
+junto con este programa. En caso contrario, consulta
+<http://www.gnu.org/licenses/>.
+
