@@ -1,12 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.fmmdevs.ccuenta;
 
 
 /**
- *
  * @author Francisco Martínez Marín
  * @version 2.1 19/4/2023
  * @see UT5 ED
