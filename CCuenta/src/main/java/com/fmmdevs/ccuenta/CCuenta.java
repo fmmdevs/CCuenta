@@ -8,7 +8,8 @@ package com.fmmdevs.ccuenta;
 /**
  *
  * @author Francisco Martínez Marín
- * @version 2.0 19/4/2023
+ * @version 2.1 19/4/2023
+ * @see UT5 ED
  */
 
 
